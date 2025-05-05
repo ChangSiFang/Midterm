@@ -1,0 +1,7 @@
+model,prompt,type,acc
+gemini2,1,int,100
+gemini2,2,int,100
+gemini2,3,int,100
+gemini2,1,float,100
+gemini2,2,float,99
+gemini2,3,float,100
